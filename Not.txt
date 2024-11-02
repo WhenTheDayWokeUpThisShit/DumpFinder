@@ -1,0 +1,10 @@
+Program sistemin kayıtlı olduğu klasörlerde minidump ve minidumps'ı arar, sonrasında bulduğu dosyaları ve memory.dmp adlı .dmp diğer bir dosyayı arar ve bulursa onları Masaüstünde zaten herhalükarda oluşturacağı
+"DumpFinder" adlı klasöre ekler. 
+
+Dump dosyalarının yüklenmesi, taşınması için Windows özel klasörlerinde erişim izni istiyor. Program bu erişim iznini almaya programlanmıştır. Bu yüzden
+Yönetici olarak çalıştırılması önerilir.
+
+Program basit bir Client'tir. Sadece .exe dosyasını çalıştırarak işinzi halledebilirsiniz. 
+
+Windows programı virüs olarak algılayacaktır çünkü hiçbir kaydı yok, şimdilik kaydı olması da düşünülmemektedir.
+
