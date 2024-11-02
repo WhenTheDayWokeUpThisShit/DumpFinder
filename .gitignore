@@ -27,6 +27,8 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
+DumpFind.sln
+DumpFind/DumpFind.vcxproj.filters
+DumpFind/DumpFind.vcxproj.user

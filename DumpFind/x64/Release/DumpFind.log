@@ -1,0 +1,6 @@
+﻿  DumpFind.cpp
+  Kod üretiliyor
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 1175 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Kodun üretilmesi tamamlandı
+  DumpFind.vcxproj -> C:\Users\Sefa\OneDrive\Masaüstü\DumpFind\x64\Release\DumpFind.exe
